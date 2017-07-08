@@ -1,5 +1,5 @@
 var utils = {
 	say: function(msg){
-		alert(msg);
+		alert("提示："+msg);
 	}
 };
